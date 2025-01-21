@@ -197,7 +197,7 @@ turn_off_fan_in_morning()
 
 # Result 
 
-```bash
+
 Current Time: 07:00:39
 FANBOT: It's not 6:00 AM yet, checking again soon.
-```
+
